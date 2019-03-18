@@ -3,6 +3,6 @@
 def countdown(num)
   counter = num
   while counter >= 0
-    puts "#{numb} SECOND(S)!"
+    puts "#{num} SECOND(S)!"
   end
 end
