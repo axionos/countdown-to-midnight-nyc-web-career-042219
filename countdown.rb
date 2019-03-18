@@ -10,4 +10,4 @@ def countdown(num)
   puts "HAPPY NEW YEAR!"
 end
 
-cuontdown(10)
+countdown(10)
